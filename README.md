@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KC-Matthews
 - 👀 I’m interested in data science
 -  Attedning MTECH to get my data analytics certificate
- ⚡ Fun fact: dog owner of 3 cute goldendoodles
+- ⚡ Fun fact: dog owner of 3 cute goldendoodles
 
 <!---
 KC-Matthews/KC-Matthews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
