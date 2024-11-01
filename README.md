@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KC-Matthews
 - 👀 I’m interested in data science
--  Attedning MTECH to get my data analytics certificate
+-  Attending MTECH to get my data analytics certificate
 - ⚡ Fun fact: dog owner of 3 cute goldendoodles
 
 <!---
